@@ -1,0 +1,13 @@
+.ipynb_checkpoints/
+/imdb_reviews_dataset
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+outputs/
+checkpoints/
+wandb/
+*.pt
+*.safetensors
+*.bin
